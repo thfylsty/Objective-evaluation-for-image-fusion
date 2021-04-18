@@ -1,3 +1,49 @@
+如果可以帮到你，感谢简单引用一下我们的文章。
+
+If you got some help, thank you for simply quoting our article. 
+
+## Methods
+
+### 1 [PerceptualFusion](https://github.com/thfylsty/imagefusion_Perceptual_FusionGan)
+
+Fu, Yu, Xiao-Jun Wu, and Tariq Durrani. "Image fusion based on generative adversarial network consistent with perception." *Information Fusion* (2021).
+
+```
+@article{fu2021image,
+  title={Image fusion based on generative adversarial network consistent with perception},
+  author={Fu, Yu and Wu, Xiao-Jun and Durrani, Tariq},
+  journal={Information Fusion},
+  year={2021},
+  publisher={Elsevier}
+}
+```
+
+### 2 [Dualbranch_Fusion](https://github.com/thfylsty/ImageFusion_Dualbranch_Fusion)
+
+```
+@inproceedings{fu2021dual,
+  title={A Dual-branch Network for Infrared and Visible Image Fusion},
+  author={Fu, Yu and Wu, Xiao-Jun},
+  booktitle={2020 25th International Conference on Pattern Recognition},
+  year={2020}
+}
+```
+
+### 3 [DeepDecFusion](https://github.com/thfylsty/ImageFusion_DeepDecFusion)
+
+```
+@article{fu2021deep,
+  title={A Deep Decomposition Network for Image Processing: A Case Study for Visible and Infrared Image Fusion},
+  author={Fu, Yu and Wu, Xiao-Jun and Kittler, Josef},
+  journal={arXiv preprint arXiv:2102.10526},
+  year={2021}
+}
+```
+
+
+
+
+
 # run
 
 "main.m"
