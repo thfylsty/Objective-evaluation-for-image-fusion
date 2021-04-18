@@ -42,6 +42,18 @@ Fu, Yu, Xiao-Jun Wu, and Tariq Durrani. "Image fusion based on generative advers
 
 
 
+### 4 An Effective Method for Fusing Infrared and Visible Images. 
+
+(later)
+
+### 5  PPT Fusion
+
+(later)
+
+
+
+
+
 
 
 # run
