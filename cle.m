@@ -1,0 +1,2 @@
+delete(gcp('nocreate'));
+clear;
